@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition and case of the London pilots To the honorable the master, wardens, assistants, and elder bretheren of the Trinity House. The humble petition of Robert Lash, Robert Young, Thomas Langly, Thomas Lintal, William Read, Adam Knowler, Samuel Hust, Anthony Thomson, Roger Bunting, Paul Phillips, and Phillip Stafford, and others, the pilots of London members of this corporation.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54523</idno>
+            <idno type="STC">Wing P1735A</idno>
+            <idno type="STC">ESTC R221456</idno>
+            <idno type="EEBO-CITATION">99832762</idno>
+            <idno type="PROQUEST">99832762</idno>
+            <idno type="VID">37236</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54523)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37236)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2150:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition and case of the London pilots To the honorable the master, wardens, assistants, and elder bretheren of the Trinity House. The humble petition of Robert Lash, Robert Young, Thomas Langly, Thomas Lintal, William Read, Adam Knowler, Samuel Hust, Anthony Thomson, Roger Bunting, Paul Phillips, and Phillip Stafford, and others, the pilots of London members of this corporation.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication date from Wing.</note>
+                  <note>Cropped at head.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="dedication">
+            <pb n="1" facs="tcp:37236:1" rendition="simple:additions"/>
+            <head>The <hi>Petition</hi> and <hi>Caſe</hi> of the <hi>London</hi> Pilots. TO THE Honorable the Maſter, Wardens, Aſſiſtants, and Elder Bretheren of the <hi>Trinity Houſe.</hi>
+            </head>
+            <head type="sub">
+               <hi>The Humble Petition of</hi> Robert Laſh, Robert Young, Thomas Langly,<note place="margin">This Petition was preſented the 30th. of March, 1689.</note> Thomas Lintal, William Read, Adam Knowler, Samuel Huſt, Anthony Thomſon, Roger Bunting, Paul Phillips, <hi>and</hi> Phillip Stafford, <hi>and others the Pilots of</hi> London <hi>Members of this Corporation.</hi>
+            </head>
+            <p>SHeweth, That by the Ninth by Law of this Corporation, It is Or<g ref="char:EOLhyphen"/>dered that no Member thereof do prefer any Bill, or Petition to the High Court of Parliament, or any other Juriſdiction for any Sea Cauſe, without acquainting the Maſter, Wardens, and Aſſiſtants therewith. And your Petitioners finding themſelves Agrieved in the Matters following, do Humbly Pray you Honors relief therein.</p>
+            <p>Firſt, That the Duty of Poundage is an Innovation on your Petitioners, the ſame not being impoſed on them but about theſe Two Years laſt paſt, although they now receive, nor can get any more than formerly. And al<g ref="char:EOLhyphen"/>though the Corporation always did, and ſtill do receive the ſame Money of the Maſter of every Veſſel, by the Name of Loadſmanage. Pilotage, and Loadſmanage by the ſaid Charter being one and the ſame Duty.</p>
+            <p>Secondly, The Charter provides, That the Channels, Sands, Flats and Rocks in, or near the Sea Coaſts, ſhall for the more Safety and Strength of the Kingdom, be kept ſecret within our Selves, and altogether un<g ref="char:EOLhyphen"/>known to Straingers. And that therefore no Alien, or Strainger Born, ſhall Sail, or Serve in any Ship, coming in or going out of the River of <hi>Thames,</hi> unleſs for urgent Cauſes to be certified under the Seal of the Corporation, That contrary to the ſaid Charter, Straingers and Aliens, and Unlicenſed Pilots are ſuffered to Pilot Ships, whereby the Strength and Safety of the Kingdom (which the Charter taketh ſo much care to have kept ſecret) is diſcovered, and your Petitioners grately Injured in the loſs of the Money they ought to receive for ſuch Pilotage, which the Aliens under ſome other name do Pay to this Corporation.</p>
+            <p>Thirdly, That of late a Bond not mentioned in the Charter, nor required by the By-Laws, have been Impoſed upon your Petitioners, with condition for their Civil Demeanor, Comportment, and Obedience to your Orders; and notwithſtanding their Civil Demeanor, Comportment, and Obedience, divers of your Petitioners have been Areſted lately, and troubled by ſuch Bonds, to their almoſt utter Ruin; and were not diſcharged until they had paied the Innovated Duty of Puondage; to raiſe which, ſome of them were forced to ſell their Goods. And your Petitioners do conceive, if they ſhall be compelled to Seal ſuch Bonds, they are not to be Areſted for any Matter out of the Condition.</p>
+            <closer>
+               <signed>Your Petitioners therefore moſt Humbly Pray your Honors, and Worſhips, to take the Premiſes into your ſerious Conſidera<g ref="char:EOLhyphen"/>tion, and relieve your Petitioners therein; Or, otherwiſe your Petitioners do Humbly beſeech your Honors, to give them leave to make their Application to the High Court of Parliament, And your Petitioners ſhall ever Pray, <hi>&amp;c.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb n="2" facs="tcp:37236:2"/>
+            <head>THE CASE OF THE Pilots of London, HUMBLY Preſented to the Maſter, Wardens, Aſſiſtants, and Elder Bretheren of the <hi>Trinity Houſe, London.</hi>
+            </head>
+            <p>
+               <note place="margin">This Caſe was preſented the 1ſt. of May, 1689.</note>THat <hi>Robert Laſh, Robert Young, Thomas Langly, Thomas Lintal, William Read, Adam Knowler, Samuel Hurſt, Anthony Thomſon, Roger Bunting, Paul Phillips,</hi> and <hi>Phillip Stafford,</hi> on behalf of Themſelves, and the other Pilots of <hi>London,</hi> by their ſeveral Humble Petitions have repreſented to your Honors, and Wor<g ref="char:EOLhyphen"/>ſhips the Preſſures and Grievances they labour under, not doubting, but ſuch their modeſt Application, would meet with a ſuitable return from your Juſtice, without your Petitioners further Complaint to a Superior Authority. And your Petitioners being reſolved to manifeſt to the World, the great dif<g ref="char:EOLhyphen"/>ference and reſpect they always had, and ſtill have to this Corporation, (whereof they are alſo Members) do once more make their Humble Application for relief; and do remind your Honors and Worſhips of their Firſt Petition, and of the Anſwers you were pleaſed to give them, as they occur to their Memory, being refuſed to be given in Writing.</p>
+            <p>To the Firſt, That your Honors produced a Book in the Reign of King <hi>Henry</hi> the Eighth, which is preſumed to be the Copy of the Original Char<g ref="char:EOLhyphen"/>ter of this Corporation; and alſo an Ancient Written Book, in which ſome mention is made, That certain Pilots did then Pay Poundage. Which your Petitioners conceive cannot in any wiſe affect them, the ſame not being for Piloting out of the River, (which is your Petitioners Caſe) ſince which time many Regulations, and Alterations in the Corporotion have been made, and new Charters Granted. And by Immemorable Cuſtom (on which your Petitioners do rely, and preſcribe to.) neither they, nor their Predeceſſors did ever Pay the ſaid Duty, until about Two Years it was ſince unjuſtly Im<g ref="char:EOLhyphen"/>poſed upon them, the ſame being always Paid by the Maſters of the Ships: Your Petitioners cannot therefore give up the juſt Right of the Pilots of this Corporation, nor lay a heavy burden upon Themſelves and Succeſſors, in maintaing the Poor out of their hard Labour; for whoſe maintenance the Corporation receive ſo great an Income, which your Worſhips by way of Anſwer propoſed in lieu of Poundage.</p>
+            <pb n="3" facs="tcp:37236:2"/>
+            <p>To the Second, You were pleaſed to Anſwer, That there was no Act of Parliament to compel Straingers to take Pilots, neither could you by your Charter force them ſo to do. Whereas there is nothing more Expreſsly taken care off by the Charter than the Pilotage, which orders no Straingers to Pilot Ships; but that the Maſter, Wardens, and Aſſiſtants, ſhall appoint Pi<g ref="char:EOLhyphen"/>lots to Aliens Ships, with a Power of Rating ſuch Pilotage. And the better to effect this, Grants a Power to them to ſtop, and keep back all Unlicenſed Pilots, and to Licence ſufficient Pilots which are to be admitted into the Brotherhood. And further do Impower the Maſter, Wardens, and Aſſiſtants, and Elder Bretheren, To puniſh ſuch Offenders by Impriſonment, or Fine, or by both, according to there Diſcretions. Therefore ſuch extraordinary Care being taken, That no Foreigners, or Unlicenſed Perſons ſhould Pilot, as well for the Strength and Safety of the Kingdom, as the more immediate Preſer<g ref="char:EOLhyphen"/>vation of the Navy Royal, of which your Petitioners have the particular Charge. Your Petitioners cannot acquit the right of Pilotage, eſpecially conſidering the Inconveniencies they ly under, in not being uſed to the <hi>North</hi> Channel, in which your Worſhips ſuffer Straingers to Pilot, contrary to the Charter. And, yet, can find a Law to ſtop them when they will not Pay you ſo much, as they are by you rated (which is Six or Seven times more than an Engliſh Man.) Not only to your Petitioners, and their Families loſs, but even to the hazzard of your Petitioners lives, if any of his Majeſties Ships ſhould in the <hi>North</hi> Channel, under their Charge be loſt. All which Orders, Conſtitutions, and Ordinances in the Charter, every Member of the Corporation, as well Elder, as Younger Bretheren, are by their Oaths well and truly to hold and keep.</p>
+            <p>To what you were pleaſed to alledge of the Alliances with Foreign Na<g ref="char:EOLhyphen"/>tions, your Petitioners Anſwer, That in all Foreign Countries, as <hi>Denmark, Sweedland, Holland,</hi> &amp;c. no Perſon is permitted to Pilot a Ship, but the Pi<g ref="char:EOLhyphen"/>lots of their own Nation; the Maſters of our Ships being by them forced to make uſe off, and Pay their Pilots.</p>
+            <p>Your Petitioners further ſhew, That Exceſſive Rates are ſet upon and taken of Straingers, for Duties (out of which, they are informed, an Allow<g ref="char:EOLhyphen"/>ance is made to the Maſters, Straingers for their own Pilotage) which is received by ſome of the Corporation, as well the Elder, as the Younger Bre<g ref="char:EOLhyphen"/>theren (as is called for Turns) and not wholly applied to the maintenance of the Poor, for whom they are Truſtees. If therefore theſe Turns were abro<g ref="char:EOLhyphen"/>gated, and no more then double Duties taken of Straingers, as the Right is, and that rightly applied, The Poor would be better maintained, according to the intent of the Charter; and your Petitioners would be readily imploy'd by Foreigners to Pilot their Ships, which would not only obviate your Wor<g ref="char:EOLhyphen"/>ſhips Objection for the maintenance of the Poor, but be a great Encourage<g ref="char:EOLhyphen"/>ment to your Petitioners, as well as an Improvement of their Skil in the <hi>North</hi> Channel, for the benefit of the Kingdom, in the increaſe and welfare of Navegation, and an Honeſt maintenance for them and their Families; whereas under theſe Preſſures, they now labour under, many of them are ſcarce able to get Bread for their Families; and are rather Objects of the Corporations Charity than in the leaſt meaſure fit to allow any thing out of their labour to the Poor.</p>
+            <p>That your Petitioners after the delivery of their Petition, were threatned to have their Warrants taken from them, when no Diſability, or Misfeazance in their Pilotage was pretended; and they having the particular Charge, as
+<pb n="4" facs="tcp:37236:3"/>well of the Navy Royal, as the Marchant Ships, whereby the Strength of the Nation, the King's Cuſtoms, and the grand Trade of the Nation are ſe<g ref="char:EOLhyphen"/>cured and preſerved. They do conceive, and are adviſed, unleſs ſuch juſt Cauſe be, they cannot Lawfully be diſcharged of their Imployments; whereby the King and Marchants will be deſtitute of Skilful Pilots.</p>
+            <p>Your Petitioners on their delivery of the Petition, did aſſure themſelves of an effectual redreſs of the Preſſures they then Complained off; but inſtead thereof, receiving an Uncertain and Untelligible Anſwer, and being threat<g ref="char:EOLhyphen"/>ned to have their Warrants taken from them; and your Clerk taking upon him to tell the Perſon that delivered their Petition, That he ſhould never have Right done him in that Houſe. Do find themſelves Obliged, to lay this there Caſe now in ſhort before you, to prevent their ſetting forth theſe, and other their Grievances to the High Court of Parliament, which your Petitioners are averſe to being unwilling to publiſh the private Advantages, that are made by ſome of the Elder Bretheren (excepting the Nobility, Sir <hi>Matthew Andrews,</hi> and ſome few others) which Advantages and Turns beforementioned, your Petitioners have juſt reaſon to believe, are the only Obſtacles of their not Piloting Straingers Ships. And the Corporation being Truſtees for the Poor, may be accountable for what they have ſo received for ſome Years paſt, and the ſame now rightly applied.</p>
+            <closer>
+               <signed>Your Petitioners do therefore Humbly Pray your Honors, and Worſhips to take their Petition, and this their Caſe into your Conſideration, and relieve them therein, And your Petitioners ſhall ever Pray, <hi>&amp;c.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
